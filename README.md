@@ -182,15 +182,5 @@ cd aws-weather-realtime-etl
 export TOMORROW_API_KEY="sua-chave-da-api"
 ```
 
-A seguir, siga cada etapa numerada da seção [🚀 Etapas do Projeto](https://github.com/Adrianogvs/aws-weather-realtime-etl/blob/main/docs/README.md)
-
-## 🙋‍♂️ Autor
-
-Projeto desenvolvido por **Adriano Vilela**  
-🔗 [LinkedIn](https://www.linkedin.com/in/Adrianogvs)  
-💻 [GitHub](https://github.com/Adrianogvs)
-
-Se curtir, ⭐ o repositório e compartilhe com a comunidade!
-
 [🔝 Voltar ao topo](#real-time-weather-alert-system-com-aws-e-api-tomorrowio)
 
